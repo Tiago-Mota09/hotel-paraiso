@@ -1,6 +1,6 @@
 # hotel-paraiso
 Site de Hotel
 
-Caso não acesse, acidionar na url o trecho index.html após a última barra, dessa forma:
+Visualize esse site clicando no link a baixo:
 
 https://tiago-mota09.github.io/hotel-paraiso/index.html
